@@ -1,0 +1,13 @@
+C:\Users\bhara\Desktop\LeadingResponse-mobileapp-master\LeadingResponse\LeadingResponse\bin\Debug\netstandard2.0\LeadingResponse.deps.json
+C:\Users\bhara\Desktop\LeadingResponse-mobileapp-master\LeadingResponse\LeadingResponse\bin\Debug\netstandard2.0\LeadingResponse.dll
+C:\Users\bhara\Desktop\LeadingResponse-mobileapp-master\LeadingResponse\LeadingResponse\bin\Debug\netstandard2.0\LeadingResponse.pdb
+C:\Users\bhara\Desktop\LeadingResponse-mobileapp-master\LeadingResponse\LeadingResponse\obj\Debug\netstandard2.0\LeadingResponse.csproj.AssemblyReference.cache
+C:\Users\bhara\Desktop\LeadingResponse-mobileapp-master\LeadingResponse\LeadingResponse\obj\Debug\netstandard2.0\LeadingResponse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhara\Desktop\LeadingResponse-mobileapp-master\LeadingResponse\LeadingResponse\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\bhara\Desktop\LeadingResponse-mobileapp-master\LeadingResponse\LeadingResponse\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\bhara\Desktop\LeadingResponse-mobileapp-master\LeadingResponse\LeadingResponse\obj\Debug\netstandard2.0\LeadingResponse.AssemblyInfoInputs.cache
+C:\Users\bhara\Desktop\LeadingResponse-mobileapp-master\LeadingResponse\LeadingResponse\obj\Debug\netstandard2.0\LeadingResponse.AssemblyInfo.cs
+C:\Users\bhara\Desktop\LeadingResponse-mobileapp-master\LeadingResponse\LeadingResponse\obj\Debug\netstandard2.0\LeadingResponse.csproj.CoreCompileInputs.cache
+C:\Users\bhara\Desktop\LeadingResponse-mobileapp-master\LeadingResponse\LeadingResponse\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\bhara\Desktop\LeadingResponse-mobileapp-master\LeadingResponse\LeadingResponse\obj\Debug\netstandard2.0\LeadingResponse.dll
+C:\Users\bhara\Desktop\LeadingResponse-mobileapp-master\LeadingResponse\LeadingResponse\obj\Debug\netstandard2.0\LeadingResponse.pdb
